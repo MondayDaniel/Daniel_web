@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+nav{
+     margin: 0;
+    background-color: rgb(243, 179, 5);
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    
+li{
+    list-style: none;
+    margin: 0px 2px;
+}
+
+navbar{
+    margin: 0%;
+    display: flex;
+    padding: 35px;
+}
+
+img{
+    width: 500px;
+    
+}
+head{
+        display: inline;
+}
+body
+ul{
+    display: flex;
+     margin: 0;
+      padding: 35px;
+      font-size: large;
+}
