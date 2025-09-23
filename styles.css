@@ -5,7 +5,10 @@ nav{
      margin: 0;
     background-color: rgb(243, 179, 5);
     display: flex;
+   
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+     justify-content: space-between;
 }
     
 li{
@@ -14,10 +17,12 @@ li{
 }
 
 navbar{
-    margin: 0%;
-    display: flex;
-    padding: 35px;
-}
+      background-color: rgb(243, 179, 5);
+    margin: 0;
+    display: inline-block;
+    padding: 3oopx;
+     justify-content: space-between;
+
 
 img{
     width: 500px;
@@ -25,6 +30,7 @@ img{
 }
 head{
         display: inline;
+        
 }
 body
 ul{
@@ -32,4 +38,23 @@ ul{
      margin: 0;
       padding: 35px;
       font-size: large;
+}
+section{
+        width: 200px;
+         justify-content: space-between;
+         display: block;
+         
+}
+
+div1{
+    text-align: justify;
+}
+
+div2{
+    width: 200px;
+    height: 40px;
+}
+
+div3{
+    
 }
